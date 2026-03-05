@@ -6,31 +6,31 @@
 ***
 
 ## Project Description
-___
+
 This project implements a CI/CD (Continuous Integration and Continuous Deployment) pipeline for a Ruby on Rails-based Legal Application. The goal is to automate the process of building, testing, and deploying the application to ensure faster and more reliable software delivery.
 
 The pipeline automatically runs when code changes are pushed to the repository. It performs tasks such as installing dependencies, running tests, and preparing the application for deployment. This helps maintain code quality, detect errors early, and streamline the development workflow using modern DevOps practices.
 
 
 ## Project overview
-___
+
 This project demonstrates how to implement a CI/CD pipeline for a Ruby on Rails Legal Application using modern DevOps tools and practices. The pipeline automates key stages of the development lifecycle, including code integration, automated testing, and deployment.
 
 Whenever new code is pushed to the repository, the CI/CD workflow is triggered to validate the changes and ensure the application remains stable. This automation improves development efficiency, reduces manual effort, and helps deliver reliable updates to the application.
 
 
 ## Objective
-___
-*To implement a CI/CD pipeline for a Ruby on Rails Legal Application.
-*To automate the process of building, testing, and deploying the application.
-*To ensure continuous integration by automatically validating code changes pushed to the repository.
-*To improve code quality and reliability through automated testing.
-*To reduce manual effort and errors by using DevOps automation tools.
-*To enable faster and consistent software delivery.
+
+* To implement a CI/CD pipeline for a Ruby on Rails Legal Application.
+* To automate the process of building, testing, and deploying the application.
+* To ensure continuous integration by automatically validating code changes pushed to the repository.
+* To improve code quality and reliability through automated testing.
+* To reduce manual effort and errors by using DevOps automation tools.
+* To enable faster and consistent software delivery.
 
 
 ## Tech Stack
-___
+
 | Category | Tools/Technologies Used |
 | :--- | :--- |
 | **IaC & Orchestration** | Terraform, Kubernetes (K8s), Docker |
@@ -42,17 +42,17 @@ ___
 
 
 ## Key Fratures
-___
-*Automated CI/CD Pipeline – Automatically triggers the workflow when code is pushed to the repository.
-*Continuous Integration – Integrates new code changes frequently and verifies them through automated processes.
-*Automated Testing – Runs tests to ensure the application works correctly before deployment.
-*Build Automation – Automatically installs dependencies and prepares the application build.
-*Version Control Integration – Uses Git-based repositories to manage and track code changes.
-*Reliable Deployment Process – Ensures consistent and stable delivery of application updates.
+
+* Automated CI/CD Pipeline – Automatically triggers the workflow when code is pushed to the repository.
+* Continuous Integration – Integrates new code changes frequently and verifies them through automated processes.
+* Automated Testing – Runs tests to ensure the application works correctly before deployment.
+* Build Automation – Automatically installs dependencies and prepares the application build.
+* Version Control Integration – Uses Git-based repositories to manage and track code changes.
+* Reliable Deployment Process – Ensures consistent and stable delivery of application updates.
 
 
 ## Group members
-___
+
 1.	NIHAL DUBEY -	EN22CS301643
 2.	NITYA JAIN -	EN22CS301665
 3.	NAMAN SHARMA -	EN22CS301633

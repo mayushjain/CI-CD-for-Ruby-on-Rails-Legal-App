@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Brand colors for JurisConnect */
+:root {
+  --brand-navy: #0b1d3a;
+  --brand-charcoal: #1f2937;
+  --brand-gold: #d4af37;
+  --brand-slate: #f8fafc;
+}
+
+/* Smooth transitions for a premium experience */
+button, a, input {
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
